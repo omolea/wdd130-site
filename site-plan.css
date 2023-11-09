@@ -136,12 +136,12 @@ nav a:hover {
   background-color: #999;
   line-height: 3em;
 }
-.sm-page2 {
+.sm-about {
   grid-area: page2;
   background-color: #999;
   line-height: 3em;
 }
-.sm-page3 {
+.sm-services {
   grid-area: page3;
   background-color: #999;
   line-height: 3em;
